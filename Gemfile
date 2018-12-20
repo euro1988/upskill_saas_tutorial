@@ -31,6 +31,8 @@ gem 'jbuilder', '2.5.0'
 # Use twitter bootstrap library for front-end UI and Layout
 gem 'bootstrap-sass', '3.3.7'
 
+# Use hirb for better database table display in console
+gem 'hirb', '0.7.3'
 # Use font awesome sass gem for adding icons
 gem 'font-awesome-sass', '4.6.2'
 group :development, :test do
